@@ -11,9 +11,6 @@ This is a beautiful web page made by using HTML and CSS only.
 ## Demo
 ![output](Document%20-%20Google%20Chrome%2012-08-2022%2014_02_09.png)
 
-
-
-
 ## What have I learnt in this project?
 
 In this project I have learned about :
@@ -22,6 +19,8 @@ In this project I have learned about :
 - CSS display property
 - CSS opacity property
 
+## Live Link
+[Crypto Landing Page](https://crypto-landing-page-souritaray.netlify.app/)
 ## Time required to complete the project
 
 Approximately 2 to 3 hours.
